@@ -13,13 +13,51 @@ namespace StringExercise
 
 
             /*
+            Write a program and ask the user to enter an English word. 
+            Count the number of vowels (a, e, o, u, i) in the word. So, if the user enters "inadequate", 
+            the program should display 6 on the console
+            */
+
+
+            Console.WriteLine("Enter an English word");
+            var englishWord = Console.ReadLine().ToLower();
+
+            
+            var vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
+            var vowelCount = 0;
+            foreach (var c in englishWord)
+            {
+                if (vowels.Contains(c))
+                {
+                    vowelCount++;
+                }
+            }
+
+            /*
+            var chars = new List<char>();
+            for (var i = 0; i < englishWord.Length; i++)
+            {
+
+                chars.Add(englishWord[i]);
+                if (chars[i] == 'a' || chars[i] == 'e' || chars[i] == 'o' || chars[i] == 'u' || chars[i] == 'i')
+                {
+                    vowelCount++;
+                }
+
+            }
+            */
+            Console.WriteLine(vowelCount);
+
+
+
+            /*
             Write a program and ask the user to enter a few numbers separated by a hyphen. 
             Work out if the numbers are consecutive. For example, if the input is "5-6-7-8-9" or "20-19-18-17-16", 
             display a message: "Consecutive"; otherwise, display "Not Consecutive".
             */
 
 
-            
+
             Console.WriteLine("Input a few numbers seperated by a hyphen");
             Console.WriteLine("EX> 5-6-7-8-9");
 
@@ -151,7 +189,7 @@ namespace StringExercise
             Console.WriteLine(result);
 
 
-
+            
         }
     }
 }

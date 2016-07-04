@@ -4,3 +4,9 @@ C:\Users\Reo\Documents\GitHub\TIL\C#\StringExercise\StringExercise\bin\Debug\Str
 C:\Users\Reo\Documents\GitHub\TIL\C#\StringExercise\StringExercise\obj\Debug\StringExercise.csprojResolveAssemblyReference.cache
 C:\Users\Reo\Documents\GitHub\TIL\C#\StringExercise\StringExercise\obj\Debug\StringExercise.exe
 C:\Users\Reo\Documents\GitHub\TIL\C#\StringExercise\StringExercise\obj\Debug\StringExercise.pdb
+C:\Users\Reo\Documents\GitHub\C#\StringExercise\StringExercise\bin\Debug\StringExercise.exe.config
+C:\Users\Reo\Documents\GitHub\C#\StringExercise\StringExercise\obj\Debug\StringExercise.exe
+C:\Users\Reo\Documents\GitHub\C#\StringExercise\StringExercise\obj\Debug\StringExercise.pdb
+C:\Users\Reo\Documents\GitHub\C#\StringExercise\StringExercise\obj\Debug\StringExercise.csprojResolveAssemblyReference.cache
+C:\Users\Reo\Documents\GitHub\C#\StringExercise\StringExercise\bin\Debug\StringExercise.exe
+C:\Users\Reo\Documents\GitHub\C#\StringExercise\StringExercise\bin\Debug\StringExercise.pdb
