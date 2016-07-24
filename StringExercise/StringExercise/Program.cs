@@ -22,31 +22,12 @@ namespace StringExercise
             Console.WriteLine("Enter an English word");
             var englishWord = Console.ReadLine().ToLower();
 
-            
-            var vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
-            var vowelCount = 0;
-            foreach (var c in englishWord)
-            {
-                if (vowels.Contains(c))
-                {
-                    vowelCount++;
-                }
-            }
 
-            /*
-            var chars = new List<char>();
-            for (var i = 0; i < englishWord.Length; i++)
-            {
 
-                chars.Add(englishWord[i]);
-                if (chars[i] == 'a' || chars[i] == 'e' || chars[i] == 'o' || chars[i] == 'u' || chars[i] == 'i')
-                {
-                    vowelCount++;
-                }
+            //int vowelCount = CountVowel(englishWord);
 
-            }
-            */
-            Console.WriteLine(vowelCount);
+           
+            Console.WriteLine(CountVowel(englishWord));
 
 
 
@@ -190,6 +171,22 @@ namespace StringExercise
 
 
             
+        }
+
+        public static int CountVowel(string word)
+        {
+            var vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
+            var vowelCount = 0;
+
+            foreach (var c in word)
+            {
+                if (vowels.Contains(c))
+                {
+                    vowelCount++;
+                }
+            }
+
+            return vowelCount;
         }
     }
 }

@@ -4,3 +4,6 @@ c:\users\reo\documents\visual studio 2015\Projects\DateAndTime\DateAndTime\bin\D
 c:\users\reo\documents\visual studio 2015\Projects\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
 c:\users\reo\documents\visual studio 2015\Projects\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
 c:\users\reo\documents\visual studio 2015\Projects\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
+C:\Users\Reo\Documents\GitHub\C#\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\Reo\Documents\GitHub\C#\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\Reo\Documents\GitHub\C#\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
