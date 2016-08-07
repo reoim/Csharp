@@ -21,12 +21,7 @@ namespace StringExercise
 
             Console.WriteLine("Enter an English word");
             var englishWord = Console.ReadLine().ToLower();
-
-
-
-            //int vowelCount = CountVowel(englishWord);
-
-           
+            
             Console.WriteLine(CountVowel(englishWord));
 
 
