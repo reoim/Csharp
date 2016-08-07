@@ -1,0 +1,6 @@
+C:\Users\Reo\Documents\GitHub\TIL\C#\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Reo\Documents\GitHub\TIL\C#\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Reo\Documents\GitHub\TIL\C#\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Reo\Documents\GitHub\TIL\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\Reo\Documents\GitHub\TIL\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Reo\Documents\GitHub\TIL\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
