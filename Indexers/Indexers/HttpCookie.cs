@@ -8,9 +8,9 @@ namespace Indexers
 {
     class HttpCookie
     {
-        private Dictionary<string, string> _dictionary = new Dictionary<string, string>();
+        private readonly Dictionary<string, string> _dictionary = new Dictionary<string, string>();
 
-        public string Name { get; set; }
+        public DateTime Expiry { get; set; }
 
         public string this[string key]
         {
